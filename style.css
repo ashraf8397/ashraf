@@ -1,0 +1,59 @@
+html,body,div,span,img {
+  margin:0px;
+	padding:0px;
+	font-family:sans-serif,sans,timesnewroman;
+	color:#000000;
+	background-color:transparent;
+	height:100%;
+}
+
+.header {
+	width:748px;
+	height:50px;
+	border:solid 2px black;
+	text-align:center;
+	margin-left:10px;
+	margin-right:10px;
+	margin-bottom:auto;
+	margin-top:10px;
+}
+
+span {
+	font-family:lucida console;
+	color:#a7a7a7;
+	font-weight:bold;
+	text-transform:uppercase;
+	word-spacing:-5px;
+}
+
+.header-first {
+	width:125px;
+	height:50px;
+	border:solid 2px black;
+}
+
+.header-last {
+	width:100px;
+	height:50px;
+	border:solid 2px black;
+	float:right;
+	margin-top:-54px;
+}
+
+.header-top {
+	width:100px;
+	height:50px;
+	border:solid 2px black;
+	margin-left: 126px;
+    margin-top: -54px;
+    width: 514px;
+}
+
+.header-bottom {
+	width:100px;
+	height:25px;
+	border:solid 2px black;
+	margin-left: 126px;
+    margin-top: -54px;
+	width: 514px;
+}
